@@ -14,7 +14,7 @@ Flexible Shift Values: Accepts any integer shift value between 1 and 25.
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/GreyCap/PRODIGY_CS_01.git
+   git clone https://github.com/greycap/PRODIGY_CS_01
 
 
 3. **Run the Program**:
